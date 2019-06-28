@@ -1,4 +1,4 @@
-# Imaging-System-3D-Noise-
+# Imaging-System-3D-Noise
 This is a python implementation of the 3D noise model originally used by Center for Night Vision and Electro-Optics to analyze spatio-temporal noise components in imaging systems.
 
 Reference: J. D' Agostino and C. Webb, "Three-dimensional analysis framework and measurement methodology for imaging system noise," *Proceedings of SPIE* vol. 1488.
