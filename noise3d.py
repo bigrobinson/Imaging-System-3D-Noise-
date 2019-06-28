@@ -3,7 +3,7 @@
 """
 Created on Fri Jun  1 11:33:23 2018
 
-@author: bmrobinson
+@author: Brian Robinson
 """
 import os
 from PIL import Image
